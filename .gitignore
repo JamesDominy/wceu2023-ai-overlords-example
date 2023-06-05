@@ -9,7 +9,9 @@
 /wp-content/index.php
 /wp-content/languages
 /wp-content/plugins/index.php
-/wp-content/themes/index.php
+/wp-content/plugins/akismet/
+/wp-content/plugins/hello.php
+/wp-content/themes/
 /wp-includes/
 /index.php
 /license.txt
@@ -46,3 +48,6 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+/db_data/
+
